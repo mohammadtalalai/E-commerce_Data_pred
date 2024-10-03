@@ -15,7 +15,7 @@
     <p>Exploratory Data Analysis (EDA): Visualization of key metrics, trends, and patterns in the dataset to better understand customer behavior.</p>
   </tr>
   <tr>
-    <p>Model Selection: Applying various machine learning models such as Linear Regression, Decision Trees, Random Forest, and XGBoost to predict sales.</p>
+    <p>Model Selection: Applying various machine learning models such as Linear Regression to predict sales.</p>
   </tr>
   <tr>
     <p>Model Evaluation: Using metrics like Mean Squared Error (MSE), R-Squared, and Mean Absolute Error (MAE) to evaluate and compare model performance.</p>
